@@ -44,3 +44,5 @@ while True:
     else:
         print('Give a valid 5 letter word.')
     print('Total chances left: ', t)
+    
+    #Ghanshyam-git
